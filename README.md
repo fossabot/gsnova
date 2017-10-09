@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgsnova.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgsnova?ref=badge_shield)
+
 本项目衍生继承自[Snova](http://code.google.com/p/snova/)， 侧重于基于各种PaaS平台打造自用Proxy，兼顾一些反防火墙干扰的工程实现.
 
 部署服务端
@@ -106,3 +108,6 @@ SPAC主要是一组规则，规则文件以JSON格式定义，例如：
 其它
 -------
 参考[Snova](http://code.google.com/p/snova/)有一些其他相关信息
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgsnova.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgsnova?ref=badge_large)
